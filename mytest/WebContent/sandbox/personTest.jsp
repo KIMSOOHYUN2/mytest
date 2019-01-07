@@ -9,7 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>싱글톤 패턴 연습</h1>
+	<h1>싱글톤 패턴 연습123</h1>
 	<%
 		//Person p = new Person(); //프라이빗이라서 보이지 않는다. new로 객체 생성불가
 		
